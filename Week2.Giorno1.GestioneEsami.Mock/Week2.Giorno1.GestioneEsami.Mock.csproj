@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Week2.Giorno1.GestuioneEsami.Core\Week2.Giorno1.GestioneEsami.Core.csproj" />
+  </ItemGroup>
+
+</Project>
